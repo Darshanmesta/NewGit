@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is D805-70BD
+
+ Directory of D:\New\GitNew
+
+09/30/2019  05:14 PM    <DIR>          .
+09/30/2019  05:14 PM    <DIR>          ..
+09/30/2019  05:14 PM               334 t1.txt
+09/30/2019  05:14 PM                 0 t2.txt
+               2 File(s)            334 bytes
+               2 Dir(s)  76,438,360,064 bytes free
